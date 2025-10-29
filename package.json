@@ -33,6 +33,7 @@
     "@tailwindcss/postcss": "4.1.16",
     "postcss": "8.4.0",
     "eslint": "9.0.0",
+    "@eslint/eslintrc": "^3.0.0",
     "eslint-config-next": "16.0.0",
     "husky": "^9.0.0",
     "lint-staged": "^15.0.0",
