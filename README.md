@@ -1,6 +1,12 @@
-# Bulls, Bears, and the Nexus - Interactive Microsite
+# Just Right AI - Goldilocks Interactive Microsite
 
-An evidence-based framework for AI adoption built with Next.js 15, TypeScript, and Tailwind CSS.
+[![CI](https://github.com/apkuk/goldilocks/actions/workflows/ci.yml/badge.svg)](https://github.com/apkuk/goldilocks/actions/workflows/ci.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-SITE-ID/deploy-status)](https://app.netlify.com/sites/YOUR-SITE-NAME/deploys)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.5-black.svg)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8.svg)](https://tailwindcss.com/)
+
+An evidence-based framework for AI adoption built with Next.js 15, TypeScript, and Tailwind CSS 4.0.
 
 ## Overview
 
